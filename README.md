@@ -4,3 +4,5 @@ A linear regression model trained using gradient descent to predict student grad
 2. study_daily
 3. sleep_daily
 4. attendance [0 - 100]
+
+Dataset link: https://www.kaggle.com/datasets/stealthtechnologies/predict-student-performance-dataset
